@@ -8,7 +8,7 @@ If you do not know, a main aspect of the game involves designing custom roller c
 
 The most important metrics are at the top: You want to maximize excitement without making the ride too intense or nauseating. 
 
-When I was a kid I had no patience for numbers (I created rides for maximum _awesomeness_), but these days I'm fond of that sort of thing. After I completed a few park scenarios, I began to wonder If i can use my own data to build better roller casters. So I started saving my ride stats in a spreadsheet: After completing each scenario, I just logged the stats from each ride into the spreadsheet. This repository contains that data, as well as any analyses I might conduct on it.
+When I was a kid I had no patience for numbers (I created rides for maximum _awesomeness_), but these days I'm fond of that sort of thing. After I completed a few park scenarios, I began to wonder If i can use my own data to build better roller coasters. So I started saving my ride stats in a spreadsheet: After completing each scenario, I just logged the stats from each ride into the spreadsheet. This repository contains that data, as well as any analyses I might conduct on it.
 
 ## The Data
 
