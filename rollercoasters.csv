@@ -1,5 +1,5 @@
 park_id,theme,rollercoaster_type,custom_design,excitement,excitement_rating,intensity,intensity_rating,nausea,nausea_rating,max_speed,avg_speed,ride_time,ride_length,max_pos_gs,max_neg_gs,max_lateral_gs,total_air_time,drops,highest_drop_height,inversions
-0,Barony Bridge,Bobsleigh Coaster ,0,5.49,High,5.71,High,4.86,Medium,39,12,63,1496,2.59,-0.27,1.71,0,2,19,0
+0,Barony Bridge,Bobsleigh Coaster ,0,5.49,High,5.71,High,4.86,Medium,39,12,63,1496,2.59,-0.27,1.71,0.0,2,19,0
 0,Barony Bridge,Dinghy Slide,0,4.83,Medium,5.86,High,3.5,Medium,37,11,48,1079,2.83,-0.48,2.68,0.36,4,42,0
 0,Barony Bridge,Wild Mouse,0,7.64,High,7.86,Very High,4.87,Medium,31,11,70,1591,3.13,-1.7,2.15,1.44,11,22,0
 0,Barony Bridge,Wooden Roller Coaster ,0,7.69,High,7.92,Very High,4.75,Medium,47,15,79,2401,3.31,-1.15,1.71,5.73,9,62,-1
@@ -13,9 +13,9 @@ park_id,theme,rollercoaster_type,custom_design,excitement,excitement_rating,inte
 4,Pacific Pyramids,Looping Roller Coaster,1,5.76,High,5.44,High,2.49,Low,36,13,50,1335,2.57,-0.91,2.47,0.93,6,39,-1
 4,Pacific Pyramids,Stand Up Roller Coaster,1,2.72,Medium,5.29,High,4.25,Medium,40,12,89,2152,3.48,-0.74,3.0,0.93,5,19,-1
 4,Pacific Pyramids,Vertical Drop Coaster,1,3.11,Medium,6.91,High,3.98,Medium,45,13,68,1762,4.2,-1.31,3.32,1.11,4,39,-1
-5,Mel's World,Bobsleigh Coaster ,0,6.32,High,5.47,High,4.71,Medium,35,15,91,2700,2.4,0.72,1.49,0,1,29,0
+5,Mel's World,Bobsleigh Coaster ,0,6.32,High,5.47,High,4.71,Medium,35,15,91,2700,2.4,0.72,1.49,0.0,1,29,0
 5,Mel's World,Inverted Roller Coaster,0,7.37,High,9.57,Very High,7.63,High,51,20,65,2595,4.23,-1.64,2.61,4.11,10,62,-1
-5,Mel's World,Spinning Wild Mouse,0,6.32,High,6.69,High,5.42,High,30,1,55,1246,2.25,0.01,2.11,0,6,22,0
+5,Mel's World,Spinning Wild Mouse,0,6.32,High,6.69,High,5.42,High,30,1,55,1246,2.25,0.01,2.11,0.0,6,22,0
 5,Mel's World,Suspended Swinging Coaster,0,6.67,High,6.54,High,7.13,High,43,13,77,1972,3.03,-1.48,1.79,2.4,5,42,0
 5,Mel's World,Dinghy Slide,1,5.28,High,5.16,High,3.3,Medium,32,8,62,981,2.34,-0.26,1.87,0.6,5,32,0
 5,Mel's World,Looping Roller Coaster,1,6.42,High,7.39,High,4.2,Medium,38,12,76,1778,2.57,-0.43,2.85,0.81,6,29,-1
@@ -55,7 +55,7 @@ park_id,theme,rollercoaster_type,custom_design,excitement,excitement_rating,inte
 14,Canry Mines,Wooden Roller Coaster ,1,6.97,High,7.83,Very High,4.45,Medium,48,15,64,1853,3.33,-1.66,1.83,1.47,6,62,-1
 15,Iceberg Islands,Bobsleigh Coaster ,0,7.36,High,6.59,High,5.47,High,36,16,81,2520,2.46,-0.52,1.57,0.87,5,19,0
 15,Iceberg Islands,Looping Roller Coaster,1,5.91,High,6.54,High,3.56,Medium,44,14,91,2454,3.93,-1.24,2.73,2.76,7,49,-1
-16,Fun Fortress,Looping Roller Coaster,0,6.05,High,5.01,Medium,2.4,Low,51,21,55,1978,3.62,0.52,1.18,0,5,49,-1
+16,Fun Fortress,Looping Roller Coaster,0,6.05,High,5.01,Medium,2.4,Low,51,21,55,1978,3.62,0.52,1.18,0.0,5,49,-1
 16,Fun Fortress,Stand Up Roller Coaster,1,4.9,Medium,8.21,Very High,6.05,High,39,15,54,1611,3.78,-0.14,2.26,0.27,4,42,-1
 16,Fun Fortress,Wooden Roller Coaster ,1,6.8,High,7.72,Very High,5.1,Medium,39,13,82,2070,2.91,-1.21,1.49,1.98,5,42,-1
 17,Butterfly Dam,Corkscrew Roller Coaster,1,6.23,High,6.61,High,3.12,Medium,47,11,82,1817,4.6,-0.16,2.06,0.72,5,62,-1
@@ -69,7 +69,7 @@ park_id,theme,rollercoaster_type,custom_design,excitement,excitement_rating,inte
 19,Razor Rocks,Wooden Wild Mouse,0,7.32,High,8.11,Very High,4.52,Medium,35,14,42,1184,2.64,-0.93,2.28,1.71,8,39,0
 19,Razor Rocks,Compact Inverted Coaster,1,6.3,High,8.03,Very High,6.96,High,51,12,94,2500,3.85,-1.62,1.4,1.74,6,62,3
 19,Razor Rocks,Floorless Roller Coaster,1,7.38,High,6.56,High,4.21,Medium,41,18,75,2605,4.19,-0.61,2.52,1.02,5,49,3
-19,Razor Rocks,Giga Coaster,1,8.08,Very High,5.04,Medium,4.02,Medium,46,22,81,3451,2.77,-1.01,1.87,"3,48",7,52,0
+19,Razor Rocks,Giga Coaster,1,8.08,Very High,5.04,Medium,4.02,Medium,46,22,81,3451,2.77,-1.01,1.87,3.48,7,52,0
 19,Razor Rocks,Hypercoaster,1,6.77,High,5.49,High,3.2,Medium,57,15,88,2608,2.9,-1.55,1.55,2.07,5,91,0
 19,Razor Rocks,Mine Train Coaster,1,6.74,High,7.09,High,5.85,High,42,14,108,3008,2.98,-1.17,1.73,3.54,6,42,0
 19,Razor Rocks,Spiral Coaster,1,6.44,High,4.38,Medium,2.72,Medium,40,13,70,1775,2.97,-1.28,1.47,4.11,6,42,0
@@ -81,7 +81,7 @@ park_id,theme,rollercoaster_type,custom_design,excitement,excitement_rating,inte
 20,Arid Heights,Water Coaster,0,6.12,High,5.69,High,4.21,Medium,33,9,75,1322,2.49,-0.67,1.49,1.02,5,22,0
 20,Arid Heights,Twister Coaster,1,6.68,High,7.03,High,4.01,Medium,56,23,63,2815,5.54,-0.66,2.74,1.86,3,78,2
 20,Arid Heights,Mini Roller Coaster,1,5.15,High,5.94,High,4.83,Medium,49,13,84,2136,3.25,-0.85,1.85,0.96,3,72,0
-20,Arid Heights,Side-Friction Roller Coaster,0,5.08,Medium,5.98,High,3.39,Medium,34,11,67,1535,2.43,0.06,1.52,0,9,29,0
+20,Arid Heights,Side-Friction Roller Coaster,0,5.08,Medium,5.98,High,3.39,Medium,34,11,67,1535,2.43,0.06,1.52,0.0,9,29,0
 20,Arid Heights,Corkscrew Roller Coaster,1,5.93,High,7.19,High,3.52,Medium,48,13,86,2273,5.04,-1.67,1.31,1.32,6,72,1
 20,Arid Heights,Hypercoaster,1,6.26,High,4.7,Medium,3.32,Medium,42,15,115,3300,2.78,-1.07,1.17,0.93,5,52,0
 21,Vertigo Views,Hypercoaster,0,9.48,Very High,9.14,Very High,5.02,Medium,89,21,186,7497,5.33,-2.08,2.69,11.52,15,239,0
@@ -94,7 +94,7 @@ park_id,theme,rollercoaster_type,custom_design,excitement,excitement_rating,inte
 21,Vertigo Views,Giga Coaster,1,7.7,Very High,4.85,Medium,3.68,Medium,48,16,89,2736,2.84,-1.54,1.41,2.31,7,59,0
 21,Vertigo Views,Wooden Roller Coaster ,0,7.43,High,7.54,High,4.7,Medium,45,15,83,2434,3.17,-1.43,1.61,4.92,6,62,0
 21,Vertigo Views,Mine Train Coaster,0,6.75,High,6.6,High,4.46,Medium,37,16,73,2267,2.71,-0.87,1.54,2.43,6,22,0
-22,Crater Lake,Mini Roller Coaster,1,4.5,Medium,4.66,Medium,3.17,Medium,30,12,69,1607,2.14,0.25,0.95,0,5,22,0
+22,Crater Lake,Mini Roller Coaster,1,4.5,Medium,4.66,Medium,3.17,Medium,30,12,69,1607,2.14,0.25,0.95,0.0,5,22,0
 22,Crater Lake,Inverted Hairpin Coaster,0,6.73,High,7.7,Very High,4.66,Medium,40,12,46,1132,2.96,-1.0,2.44,2.19,7,42,0
 22,Crater Lake,Wooden Roller Coaster ,1,7.0,High,7.93,Very High,4.35,Medium,49,14,90,2585,4.21,-0.76,1.35,0.51,4,72,1
 22,Crater Lake,Mine Train Coaster,1,2.7,Medium,2.76,Medium,2.26,Low,31,10,83,1683,2.31,-0.43,1.28,0.6,3,9,0
