@@ -21,7 +21,7 @@ I still play a few games a week (duh), so occasionally I will update the databas
  - [`excitement`](http://rct.wikia.com/wiki/Excitement): _Float_. Ride excitement from 0 (very low) with no specified maximum, but it is _very_ rarely above 10.0. Larger numbers are always better.
  - [`intensity`](http://rct.wikia.com/wiki/Intensity):  _Float_. Ride intensity from 0 (very dull) with no specified maximum, though most (well-designed) rides are under 10.0. Each customer has their own intensity preference.
  - [`nausea`](http://rct.wikia.com/wiki/Nausea): _Float_. Ride nausea from 0 (very low) with no specified maximum, but lower is better and rides rarely have values above 10.0.
- - `excitement_rating`, `intensity_rating`, `nausea_rating: _String_.  Descriptors of the excitement, intensity, and nausea ratings.
+ - `excitement_rating`, `intensity_rating`, `nausea_rating`: _String_.  Descriptors of the excitement, intensity, and nausea ratings.
  - `max_speed`: _Integer_. Maximum speed (mph).
  - `avg_speed`: _Integer_. Average speed (mph).
  - `ride_time`: _Integer_. Total duration of the ride in seconds.

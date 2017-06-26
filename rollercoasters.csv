@@ -103,3 +103,18 @@ park_id,theme,rollercoaster_type,custom_design,excitement,excitement_rating,inte
 23,Whispering Cliffs,Wooden Roller Coaster ,1,6.64,High,7.26,High,4.35,Medium,36,11,70,1535,2.66,-0.96,1.57,1.02,6,39,1
 23,Whispering Cliffs,Mine Train Coaster,1,6.35,High,6.24,High,4.55,Medium,35,14,76,2040,2.41,-0.49,1.46,1.29,5,32,0
 23,Whispering Cliffs,Dinghy Slide,1,5.33,High,5.59,High,3.59,Medium,45,8,83,1322,3.15,-0.78,1.51,0.9,3,68,0
+24,Bumbly Bazaar,Hypercoaster,1,6.7,High,5.42,High,3.41,Medium,45,14,92,2628,3.18,-1.53,1.74,2.28,5,52,0
+24,Bumbly Bazaar,Mini Roller Coaster,1,4.8,Medium,5.34,High,4.01,Medium,39,12,85,2014,2.86,-0.79,1.18,1.17,4,42,0
+24,Bumbly Bazaar,Hyper-Twister Roller Coaster,1,7.04,High,4.56,Medium,2.79,Medium,44,14,78,2162,2.8,-0.88,1.78,1.56,4,49,0
+24,Bumbly Bazaar,Wooden Roller Coaster ,1,6.1,High,7.29,High,4.29,Medium,39,10,87,1804,2.86,-1.15,1.34,1.26,6,49,1
+25,Hydro Hills,Looping Roller Coaster,1,6.59,High,5.76,High,4.05,Medium,45,14,99,2710,4.1,-0.69,1.84,0.69,5,62,1
+25,Hydro Hills,Twister Coaster,1,6.66,High,6.82,High,3.72,Medium,45,15,64,1857,4.5,-1.07,2.74,0.84,6,59,3
+25,Hydro Hills,Lay-down Roller Coaster,1,6.49,High,6.52,High,5.25,High,38,10,88,1693,4.0,-0.58,2.39,1.26,5,42,1
+25,Hydro Hills,Compact Inverted Coaster,1,6.08,High,7.05,High,5.88,High,51,12,84,2027,3.09,-1.1,2.17,1.2,5,68,0
+25,Hydro Hills,Suspended Swinging Coaster,0,7.33,High,7.05,High,7.29,High,47,16,93,2953,3.14,-1.38,2.65,2.52,6,62,0
+25,Hydro Hills,Wooden Roller Coaster ,0,7.42,High,7.97,Very High,4.64,Medium,46,16,57,1840,3.23,-1.15,1.69,2.64,7,62,1
+26,Paradise Pier,Compact Inverted Coaster,1,5.96,High,7.78,Very High,6.39,High,39,12,74,1814,3.68,-0.99,2.18,3.21,8,49,2
+26,Paradise Pier,Looping Roller Coaster,1,6.49,High,4.59,Medium,2.52,Low,41,1,87,1945,2.58,-0.45,1.56,0.54,4,49,1
+26,Paradise Pier,Mini Roller Coaster,0,6.22,High,6.17,High,4.33,Medium,45,14,71,2037,3.03,-1.06,1.94,3.09,7,62,0
+26,Paradise Pier,Corkscrew Roller Coaster,1,6.46,High,6.04,High,4.14,Medium,40,14,102,2775,3.3,-0.84,1.77,0.9,7,42,1
+26,Paradise Pier,Junior Roller Coaster,1,5.64,High,5.25,High,3.92,Medium,33,12,72,1660,2.38,-0.44,1.44,0.63,4,22,0
