@@ -118,3 +118,26 @@ park_id,theme,rollercoaster_type,custom_design,excitement,excitement_rating,inte
 26,Paradise Pier,Mini Roller Coaster,0,6.22,High,6.17,High,4.33,Medium,45,14,71,2037,3.03,-1.06,1.94,3.09,7,62,0
 26,Paradise Pier,Corkscrew Roller Coaster,1,6.46,High,6.04,High,4.14,Medium,40,14,102,2775,3.3,-0.84,1.77,0.9,7,42,1
 26,Paradise Pier,Junior Roller Coaster,1,5.64,High,5.25,High,3.92,Medium,33,12,72,1660,2.38,-0.44,1.44,0.63,4,22,0
+27,Swamp Cove,Inverted Roller Coaster,0,8.14,Very High,9.15,Very High,7.52,High,50,19,80,3015,4.06,-1.72,2.448,3.6,9,62,4
+27,Swamp Cove,Inverted Roller Coaster,0,8.31,Very High,9.07,Very High,7.27,High,50,20,80,3156,4.08,-1.62,2.43,3.27,8,62,4
+27,Swamp Cove,Mine Train Coaster,1,6.18,High,6.95,High,4.3,Medium,41,10,76,1555,2.77,-1.14,2.4,1.5,6,52,0
+27,Swamp Cove,Spiral Coaster,1,6.16,High,3.89,Medium,2.27,Low,41,18,42,1473,2.67,-0.4,1.66,1.26,4,49,0
+27,Swamp Cove,Corkscrew Roller Coaster,1,5.47,High,6.08,High,2.49,Low,41,12,66,1637,3.52,-0.98,2.441,1.32,44,52,1
+27,Swamp Cove,Wooden Roller Coaster ,1,6.9,High,7.31,High,5.32,High,38,16,76,2339,2.65,-0.96,1.68,1.2,4,29,1
+28,Roman Village,Wooden Roller Coaster ,1,7.21,High,8.34,Very High,5.11,Medium,47,14,70,1995,4.22,-1.17,1.92,1.62,5,68,1
+28,Roman Village,Lay-down Roller Coaster,1,6.84,High,6.54,High,5.25,High,44,16,63,1962,3.1,-1.4,1.67,2.28,4,42,2
+28,Roman Village,Looping Roller Coaster,1,6.06,High,5.88,High,2.85,Medium,45,17,61,2093,3.06,-0.87,2.53,2.07,6,42,1
+29,Adrenaline Heights,Suspended Swinging Coaster,0,7.0,High,8.31,Very High,9.85,Very High,47,15,85,2460,2.85,-1.06,2.92,1.44,5,42,0
+29,Adrenaline Heights,Lay-down Roller Coaster,1,7.57,High,7.82,Very High,5.93,High,59,16,76,2385,3.96,-1.41,2.42,1.2,4,101,2
+29,Adrenaline Heights,Inverted Roller Coaster,1,6.49,High,7.92,Very High,6.43,High,45,14,60,1627,4.06,-1.12,2.42,1.8,6,62,2
+29,Adrenaline Heights,Hypercoaster,1,6.89,High,8.6,Very High,5.22,High,60,15,93,2661,3.56,-2.11,2.97,2.43,3,101,0
+29,Adrenaline Heights,Hyper-Twister Roller Coaster,1,6.93,High,7.81,Very High,4.58,Medium,57,16,57,1778,3.35,-1.68,2.84,0.93,2,98,0
+29,Adrenaline Heights,Floorless Roller Coaster,1,7.19,High,9.59,Very High,5.66,High,59,15,65,1870,6.26,-2.01,2.93,1.41,4,101,1
+30,Botany Breakers,Stand Up Roller Coaster,1,5.31,High,8.86,Very High,6.86,High,40,15,81,2359,4.08,-0.64,2.43,1.44,6,29,2
+30,Botany Breakers,Vertical Drop Coaster,1,6.61,High,6.28,High,3.2,Medium,48,16,42,1322,3.15,-2.39,1.94,1.08,3,65,0
+30,Botany Breakers,Corkscrew Roller Coaster,1,6.14,High,5.88,High,3.66,Medium,42,17,69,2270,3.19,-0.8,1.65,0.99,5,62,1
+30,Botany Breakers,Spiral Coaster,1,5.39,High,5.94,High,3.79,Medium,41,13,46,1174,2.69,-0.55,2.96,0.72,3,49,0
+30,Botany Breakers,Twister Coaster,1,7.66,High,6.11,High,3.81,Medium,45,18,61,2221,3.86,-1.08,2.29,2.1,6,22,2
+30,Botany Breakers,Mine Train Coaster,1,7.59,High,7.6,High,5.8,Medium,52,16,90,2972,3.33,-1.36,2.17,2.43,4,82,0
+30,Botany Breakers,Wooden Roller Coaster ,1,7.5,High,7.75,Very High,4.35,Medium,40,18,58,2001,3.01,-0.97,1.97,1.62,5,29,1
+30,Botany Breakers,Hypercoaster,1,6.17,High,44.94,Medium,2.76,Medium,45,15,61,1791,2.69,-0.45,2.71,0.18,2,62,0
