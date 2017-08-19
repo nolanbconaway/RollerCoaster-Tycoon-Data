@@ -122,7 +122,7 @@ park_id,theme,rollercoaster_type,custom_design,excitement,excitement_rating,inte
 27,Swamp Cove,Inverted Roller Coaster,0,8.31,Very High,9.07,Very High,7.27,High,50,20,80,3156,4.08,-1.62,2.43,3.27,8,62,4
 27,Swamp Cove,Mine Train Coaster,1,6.18,High,6.95,High,4.3,Medium,41,10,76,1555,2.77,-1.14,2.4,1.5,6,52,0
 27,Swamp Cove,Spiral Coaster,1,6.16,High,3.89,Medium,2.27,Low,41,18,42,1473,2.67,-0.4,1.66,1.26,4,49,0
-27,Swamp Cove,Corkscrew Roller Coaster,1,5.47,High,6.08,High,2.49,Low,41,12,66,1637,3.52,-0.98,2.441,1.32,44,52,1
+27,Swamp Cove,Corkscrew Roller Coaster,1,5.47,High,6.08,High,2.49,Low,41,12,66,1637,3.52,-0.98,2.441,1.32,4,52,1
 27,Swamp Cove,Wooden Roller Coaster ,1,6.9,High,7.31,High,5.32,High,38,16,76,2339,2.65,-0.96,1.68,1.2,4,29,1
 28,Roman Village,Wooden Roller Coaster ,1,7.21,High,8.34,Very High,5.11,Medium,47,14,70,1995,4.22,-1.17,1.92,1.62,5,68,1
 28,Roman Village,Lay-down Roller Coaster,1,6.84,High,6.54,High,5.25,High,44,16,63,1962,3.1,-1.4,1.67,2.28,4,42,2
@@ -165,3 +165,26 @@ park_id,theme,rollercoaster_type,custom_design,excitement,excitement_rating,inte
 36,Volcania,Wooden Roller Coaster ,1,7.51,High,7.75,Very High,4.71,Medium,50,13,82,1909,3.43,-1.63,1.53,2.94,6,49,0
 36,Volcania,Inverted Roller Coaster,1,6.67,High,8.95,Very High,7.07,High,51,17,92,3022,4.78,-1.7,2.25,3.3,7,72,3
 36,Volcania,Suspended Swinging Coaster,1,6.35,High,6.77,High,8.22,Very High,50,13,93,2464,2.93,-0.98,2.21,2.04,6,68,0
+37,Dusty Desert,Vertical Drop Coaster,1,7.77,Very High,7.56,Very High,4.09,Medium,62,17,80,2700,3.96,-1.75,2.6,3.87,6,114,1
+37,Dusty Desert,Inverted Roller Coaster,1,7.69,Very High,9.82,Very High,7.45,High,56,18,82,2930,5.75,-1.7,2.61,2.58,9,91,4
+37,Dusty Desert,Twister Coaster,1,7.39,High,6.36,High,4.91,Medium,60,20,107,4147,3.46,-1.39,2.26,1.71,7,82,1
+37,Dusty Desert,Lay-down Roller Coaster,1,8.17,Very High,9.87,Very High,7.39,High,54,17,105,3537,5.56,-1.8,2.58,4.23,11,88,4
+37,Dusty Desert,Wooden Roller Coaster ,1,8.28,Very High,8.96,Very High,5.76,High,54,15,113,3245,3.84,-1.77,2.13,1.89,6,82,1
+38,Dusty Greens,Looping Roller Coaster,1,6.75,High,5.66,High,2.76,Medium,49,15,70,2037,3.37,-1.42,1.73,2.91,5,59,1
+38,Dusty Greens,Spiral Coaster,1,6.88,High,5.19,High,3.15,Medium,54,16,75,2355,3.42,-1.66,2.37,2.7,5,82,9
+38,Dusty Greens,Hyper-Twister Roller Coaster,1,8.16,High,6.24,High,4.36,Medium,66,16,102,3287,3.78,-1.36,2.63,3.75,5,131,0
+39,Frightmare Hills,Wooden Roller Coaster ,1,7.67,High,8.56,Very High,5.24,High,50,15,81,2339,4.81,-0.88,1.78,0.78,5,78,1
+39,Frightmare Hills,Inverted Roller Coaster,0,8.2,Very High,9.99,Very High,8.42,Very High,59,21,107,4498,3.93,-1.07,1.95,4.68,15,101,7
+39,Frightmare Hills,Lay-down Roller Coaster,1,7.66,High,8.69,Very High,6.07,High,59,14,85,2401,6.1,-1.83,2.34,2.07,5,88,2
+39,Frightmare Hills,Looping Roller Coaster,1,6.97,High,6.21,High,3.77,Medium,48,15,97,2815,4.0,-0.9,2.08,1.8,7,59,1
+39,Frightmare Hills,Spiral Coaster,1,6.39,High,4.66,Medium,3.34,Medium,46,17,71,2326,3.26,-1.56,1.66,1.8,6,42,0
+39,Frightmare Hills,Inverted Hairpin Coaster,0,6.65,High,7.7,Very High,4.66,Medium,40,13,45,1128,2.94,-0.99,2.45,2.13,7,42,0
+39,Frightmare Hills,Inverted Impulse Coaster,0,6.73,High,7.71,High,5.68,High,63,38,28,1027,4.08,-1.92,0.0,13.68,6,98,0
+40,Utopia,Mini Roller Coaster,1,5.68,High,5.52,High,3.85,Medium,42,11,57,1282,2.74,-0.48,1.62,0.75,5,52,0
+40,Utopia,Corkscrew Roller Coaster,1,6.37,High,7.18,High,3.33,Medium,49,9,87,1653,4.32,-1.75,1.96,1.68,7,42,2
+40,Utopia,Wooden Roller Coaster ,1,7.1,High,7.79,Very High,4.47,Medium,49,12,78,1788,3.42,-1.55,1.8,1.5,4,59,1
+40,Utopia,Spiral Coaster,1,6.8,High,5.5,High,3.07,Medium,58,14,61,1686,3.78,1.89,2.62,1.2,5,98,0
+40,Utopia,Twister Coaster,1,6.01,High,5.79,High,2.9,Medium,58,13,67,1719,3.62,-1.81,2.45,1.77,3,98,1
+41,Thunder Rock,Vertical Drop Coaster,1,7.37,High,7.09,High,3.31,Medium,50,15,54,1584,3.9,-2.33,2.15,3.39,6,68,1
+41,Thunder Rock,Corkscrew Roller Coaster,1,6.22,High,8.29,Very High,3.81,Medium,52,14,59,1663,5.71,-1.74,2.54,1.56,4,82,2
+41,Thunder Rock,Mine Train Coaster,1,5.78,High,8.15,Very High,4.97,Medium,62,15,45,1296,4.05,-2.13,2.35,1.53,3,82,0
